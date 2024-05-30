@@ -10,6 +10,7 @@ Ser líderes mundiales en el desarrollo de tecnología vestible innovadora que e
 |Nombre|Licencia|
 |------|--------|
 |Thonny|The MIT License (MIT)|
+
 ---
 
 ## Hardware empleado
@@ -46,6 +47,7 @@ Ser líderes mundiales en el desarrollo de tecnología vestible innovadora que e
 |**Nombre:** Funcionalidades de Conectividad Avanzada|
 |**Usuario:** Usuario|
 |**Descripción:** Permitir una personalización más profunda de la experiencia del usuario con la pulsera inteligente. Esto incluye opciones adicionales para adaptar la interfaz y las funciones según las preferencias individuales.|
+
 ---
 
 ## Prototipo
@@ -55,9 +57,11 @@ Ser líderes mundiales en el desarrollo de tecnología vestible innovadora que e
 
 
 ## Tablero Kanban
+![image](https://github.com/AlexRGB2/EmotionPulse/assets/41849043/b28e6478-dee5-4b05-875c-68dbe02d8cf3)
 
 
 ## Circuito diseñado
+![EsquemaEmotionPulse_bb](https://github.com/AlexRGB2/EmotionPulse/assets/41849043/a6a29874-5f7e-4e6d-8e17-3d5abadb0896)
 
 
 ## Resultados
