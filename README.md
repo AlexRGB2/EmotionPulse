@@ -1,9 +1,11 @@
 # EmotionPulse
 Documentación del proyecto EmotionPulse para la matería Desarrollo de Dispositivos Inteligentes.
+
 ---
 
 ## Visión
 Ser líderes mundiales en el desarrollo de tecnología vestible innovadora que empodera a las personas a mejorar su salud y bienestar mediante la integración de monitoreo de salud preciso, localización avanzada y análisis emocional.
+
 ---
 
 ## Software empleado
@@ -59,9 +61,11 @@ Ser líderes mundiales en el desarrollo de tecnología vestible innovadora que e
 ## Tablero Kanban
 ![image](https://github.com/AlexRGB2/EmotionPulse/assets/41849043/b28e6478-dee5-4b05-875c-68dbe02d8cf3)
 
+---
 
 ## Circuito diseñado
 ![EsquemaEmotionPulse_bb](https://github.com/AlexRGB2/EmotionPulse/assets/41849043/a6a29874-5f7e-4e6d-8e17-3d5abadb0896)
 
+---
 
 ## Resultados
