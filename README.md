@@ -61,7 +61,7 @@ Ser líderes mundiales en el desarrollo de tecnología vestible innovadora que e
 ---
 
 ## Tablero Kanban
-![image](https://github.com/AlexRGB2/EmotionPulse/assets/41849043/b28e6478-dee5-4b05-875c-68dbe02d8cf3)
+![image](https://github.com/AlexRGB2/EmotionPulse/assets/41849043/81d248ff-4534-4ef1-9ff2-cf64e3414fd9)
 
 ---
 
