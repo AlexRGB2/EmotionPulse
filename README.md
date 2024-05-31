@@ -53,7 +53,9 @@ Ser líderes mundiales en el desarrollo de tecnología vestible innovadora que e
 ---
 
 ## Prototipo
+![Imagen de WhatsApp 2024-05-31 a las 09 33 08_25c2c33b](https://github.com/AlexRGB2/EmotionPulse/assets/41849043/e6001b40-e220-4bb8-af91-fbe0bdff238f)
 
+---
 
 ## Arquitectura del proyecto
 ![Imagen de WhatsApp 2024-05-30 a las 21 47 59_1964ccc7](https://github.com/AlexRGB2/EmotionPulse/assets/41849043/7bac12e7-baaf-4791-b9ba-9c4d9b8891f5)
