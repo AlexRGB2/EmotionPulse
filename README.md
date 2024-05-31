@@ -56,7 +56,9 @@ Ser líderes mundiales en el desarrollo de tecnología vestible innovadora que e
 
 
 ## Arquitectura del proyecto
+![Imagen de WhatsApp 2024-05-30 a las 21 47 59_1964ccc7](https://github.com/AlexRGB2/EmotionPulse/assets/41849043/7bac12e7-baaf-4791-b9ba-9c4d9b8891f5)
 
+---
 
 ## Tablero Kanban
 ![image](https://github.com/AlexRGB2/EmotionPulse/assets/41849043/b28e6478-dee5-4b05-875c-68dbe02d8cf3)
