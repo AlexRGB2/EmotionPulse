@@ -77,7 +77,7 @@ Para aquellas personas deportistas quienes tienen la necesidad de realizar segui
 ---
 
 ## Arquitectura del proyecto
-![Imagen de WhatsApp 2024-05-30 a las 21 47 59_1964ccc7](https://github.com/AlexRGB2/EmotionPulse/assets/41849043/7bac12e7-baaf-4791-b9ba-9c4d9b8891f5)
+![Untitled](https://github.com/AlexRGB2/EmotionPulse/assets/107822697/8b39478c-615c-4452-b21d-c180e6a1edd5)
 
 ---
 
