@@ -87,7 +87,7 @@ Para aquellas personas deportistas quienes tienen la necesidad de realizar segui
 ---
 
 ## Circuito diseñado
-![EsquemaEmotionPulse_bb](https://github.com/AlexRGB2/EmotionPulse/assets/41849043/a6a29874-5f7e-4e6d-8e17-3d5abadb0896)
+![EsquemaEmotionPulse_bb](https://github.com/AlexRGB2/EmotionPulse/assets/41849043/6805ecbe-1568-44bc-ac4f-fa7175b2f4e9)
 
 ---
 
