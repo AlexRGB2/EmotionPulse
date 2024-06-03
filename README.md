@@ -3,6 +3,13 @@ Documentación del proyecto EmotionPulse para la matería Desarrollo de Disposit
 
 ---
 
+## Integrantes
+- Marisol Núñez Monasterio
+- Juan Pablo Jimenez Jaime
+- José Alexis Martínez Bárcenas
+
+---
+
 ## Visión
 Para aquellas personas deportistas quienes tienen la necesidad de realizar seguimiento de sus entrenamientos, asi como su estado de ánimo durante el mismo. EmotionPulse es una solución para esté tipo de necesidades y muchas más, ya que además de todo lo mencionado también se puede realizar un seguimiento preciosa de trayectos al momento de realizar running, también gracias a esto se puede medir el recorrido realizado. A diferencia de muchas otras smartbands, nuestro producto es más accesible no solo para deportistas, si no para cualquier persona que se interese en tener un mejor control sobre su salud física y emocional.
 
