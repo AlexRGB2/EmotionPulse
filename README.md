@@ -4,7 +4,7 @@ Documentación del proyecto EmotionPulse para la matería Desarrollo de Disposit
 ---
 
 ## Visión
-Ser líderes mundiales en el desarrollo de tecnología vestible innovadora que empodera a las personas a mejorar su salud y bienestar mediante la integración de monitoreo de salud preciso, localización avanzada y análisis emocional.
+Para aquellas personas deportistas quienes tienen la necesidad de realizar seguimiento de sus entrenamientos, asi como su estado de ánimo durante el mismo. EmotionPulse es una solución para esté tipo de necesidades y muchas más, ya que además de todo lo mencionado también se puede realizar un seguimiento preciosa de trayectos al momento de realizar running, también gracias a esto se puede medir el recorrido realizado. A diferencia de muchas otras smartbands, nuestro producto es más accesible no solo para deportistas, si no para cualquier persona que se interese en tener un mejor control sobre su salud física y emocional.
 
 ---
 
@@ -12,6 +12,14 @@ Ser líderes mundiales en el desarrollo de tecnología vestible innovadora que e
 |Nombre|Licencia|
 |------|--------|
 |Thonny|The MIT License (MIT)|
+|Arduino IDE|AGPL-3.0 license|
+|Fritzing|GNU GPL v3|
+|Node-RED|Apache License 2.0|
+|Visual Studio Code|Licencia MIT Binarios: Freeware|
+|Tinkercad|Free for everyone|
+|PulseSensor Playground|The MIT License (MIT)|
+|NEO-6M_GPS|The MIT License (MIT)|
+|SparkFun MAX3010x|Creative Commons Share-alike 4.0 International|
 
 ---
 
@@ -25,6 +33,10 @@ Ser líderes mundiales en el desarrollo de tecnología vestible innovadora que e
 |Sensor Digital de aceleración de gravedad|![image](https://github.com/AlexRGB2/EmotionPulse/assets/41849043/3c5761f5-84ea-44cf-8721-45a587ce979c)|ADXL345 es un acelerómetro de tres ejes pequeño, delgado y de baja potencia que puede ser alto. ADXL345 es muy adecuado para aplicaciones de dispositivos móviles. Puede inclinar aplicaciones de detección. Midiendo la aceleración estática de la gravedad, también puede medir la dinámica agregar movimiento o tras un choque.|1|
 |Altavoz de Audio y sonido|![image](https://github.com/AlexRGB2/EmotionPulse/assets/41849043/31d59aae-bd45-43f0-9093-09becb005dbe)|Este módulo puede conducir directamente un pequeño altavoz 8 Ohm 0,5 W|1|
 |Módulo LED RGB|![image](https://github.com/AlexRGB2/EmotionPulse/assets/41849043/dd17a98f-86f9-4d62-9b52-935fb566a73a)|**Tamaño:** 25*21mm, **Color:** RGB, **Brillo:** resaltado, **Voltaje:** 5 V, **Entrada:** señal digital|1|
+|Jumpers Macho - Macho|![image](https://github.com/AlexRGB2/EmotionPulse/assets/41849043/71b6317e-de20-4030-ba54-61f68d761717)|Un jumper o saltador es un elemento que permite cerrar el circuito eléctrico del que forma parte dos conexiones. La función del cable macho-macho es con frecuencia usado en el tablero protoboard haciendo posible la conexión de dos elementos ingresados en dicho tablero.|30|
+|Soldador|![image](https://github.com/AlexRGB2/EmotionPulse/assets/41849043/fc5a82e1-760e-41a1-afff-2f87b009fda1)|Un soldador eléctrico o de estaño es una herramienta eléctrica que se utiliza para realizar soldadura blanda, es decir, con material que tiene una baja temperatura de fusión, como por ejemplo el Estaño.|1|
+|ESP32|![image](https://github.com/AlexRGB2/EmotionPulse/assets/41849043/fa57010d-71b8-4d84-b748-d153d7f7c334)|ESP32 es la denominación de una familia de chips SoC de bajo coste y consumo de energía, con tecnología Wi-Fi y Bluetooth de modo dual integrada.|1|
+
 
 ---
 
