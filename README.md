@@ -35,7 +35,6 @@ Para aquellas personas deportistas quienes tienen la necesidad de realizar segui
 ## Hardware empleado
 |Nombre|Imagen|Descripción|Cantidad|
 |------|------|-----------|--------|
-|ESP32-S3 para Arduino LVGL|![image](https://github.com/AlexRGB2/EmotionPulse/assets/41849043/4e5d18cb-0cdc-45a5-b88c-50f10bea2457)|Desarrollo ESP32, Flash PSRAM de 16M, pantalla TFT estándar de 7,0 pulgadas táctil capacitiva, admite descarga automática de una tecla|1|
 |Módulo GPS de GY-NEO6MV2|![image](https://github.com/AlexRGB2/EmotionPulse/assets/41849043/9211ccad-cb2d-4c8f-ad27-316319f0804a)|El módulo controlador de drones GPS mide con precisión parámetros como la posición, la velocidad y el tiempo, lo que lo hace adecuado para aplicaciones que requieren un posicionamiento preciso, como drones, vehículos de control remoto y barcos.|1|
 |Módulo de Sensor de temperatura sin contacto|![image](https://github.com/AlexRGB2/EmotionPulse/assets/41849043/d888d2fb-58a8-4ccc-9426-8aedebdfab77)|Termómetro infrarrojo sin contacto MELEXIS para usar con Arduino, o cualquier microcontrolador que pueda comunicarse con él a través de su interfaz I2C.|1|
 |Módulo de Sensor de ritmo cardíaco|![image](https://github.com/AlexRGB2/EmotionPulse/assets/41849043/e77beec2-d67c-4417-a86a-c0900bf5f697)|El MAX30102 es un oxímetro de pulso y monitor de frecuencia cardíaca integrado que transmite el módulo del sensor. Integra un LED rojo y un LED infrarrojo, detectores fotoeléctricos, dispositivos ópticos y circuitos electrónicos de bajo ruido con supresión de luz ambiental.|1|
