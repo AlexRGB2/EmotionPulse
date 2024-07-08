@@ -27,6 +27,8 @@ Para aquellas personas deportistas quienes tienen la necesidad de realizar segui
 |PulseSensor Playground|The MIT License (MIT)|
 |NEO-6M_GPS|The MIT License (MIT)|
 |SparkFun MAX3010x|Creative Commons Share-alike 4.0 International|
+|Visual Studio|Microsoft Software License Terms|
+|Flutter|BSD 3-Clause License|
 
 ---
 
