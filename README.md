@@ -24,11 +24,15 @@ Para aquellas personas deportistas quienes tienen la necesidad de realizar segui
 |Node-RED|Apache License 2.0|
 |Visual Studio Code|Licencia MIT Binarios: Freeware|
 |Tinkercad|Free for everyone|
-|PulseSensor Playground|The MIT License (MIT)|
 |NEO-6M_GPS|The MIT License (MIT)|
 |SparkFun MAX3010x|Creative Commons Share-alike 4.0 International|
 |Visual Studio|Microsoft Software License Terms|
 |Flutter|BSD 3-Clause License|
+|fl_chart|MIT license|
+|flutter_map|BSD-3-Clause license|
+|latlong|Apache 2.0|
+|mqtt_client|MIT License|
+|supabase_flutter|Copyright (c) 2020 Supabase|
 
 ---
 
@@ -44,7 +48,8 @@ Para aquellas personas deportistas quienes tienen la necesidad de realizar segui
 |Jumpers Macho - Macho|![image](https://github.com/AlexRGB2/EmotionPulse/assets/41849043/71b6317e-de20-4030-ba54-61f68d761717)|Un jumper o saltador es un elemento que permite cerrar el circuito eléctrico del que forma parte dos conexiones. La función del cable macho-macho es con frecuencia usado en el tablero protoboard haciendo posible la conexión de dos elementos ingresados en dicho tablero.|30|
 |Soldador|![image](https://github.com/AlexRGB2/EmotionPulse/assets/41849043/fc5a82e1-760e-41a1-afff-2f87b009fda1)|Un soldador eléctrico o de estaño es una herramienta eléctrica que se utiliza para realizar soldadura blanda, es decir, con material que tiene una baja temperatura de fusión, como por ejemplo el Estaño.|1|
 |ESP32|![image](https://github.com/AlexRGB2/EmotionPulse/assets/41849043/fa57010d-71b8-4d84-b748-d153d7f7c334)|ESP32 es la denominación de una familia de chips SoC de bajo coste y consumo de energía, con tecnología Wi-Fi y Bluetooth de modo dual integrada.|1|
-
+|Estaño| ![image](https://github.com/user-attachments/assets/cb6ca65c-81a8-4997-a1bf-9d83e578dd2c) | El estaño para soldar no es estaño puro, sino una aleación, normalmente de estaño y plomo. La composición ideal es del 60% de estaño por un 40% de plomo con adición de resina para facilitar el estañado. | 17gr |
+| Flux | ![image](https://github.com/user-attachments/assets/1a3003bf-0f5a-4244-98c4-1e966d5a9ac7) | El flux para soldar, también conocido como fundente para soldar es un producto químico, generalmente en forma de pasta fluida, que al ser aplicado sobre los componentes que vamos a soldar elimina el óxido existente entre ellos aumentando sustancialmente la calidad de la soldadura. | 1 |
 
 ---
 
@@ -69,6 +74,11 @@ Para aquellas personas deportistas quienes tienen la necesidad de realizar segui
 |**Nombre:** Funcionalidades de Conectividad Avanzada|
 |**Usuario:** Usuario|
 |**Descripción:** Permitir una personalización más profunda de la experiencia del usuario con la pulsera inteligente. Esto incluye opciones adicionales para adaptar la interfaz y las funciones según las preferencias individuales.|
+
+---
+
+## Esquema Base de Datos
+![image](https://github.com/user-attachments/assets/7543a3e0-bcb3-437f-9b65-f16f6c8f08e9)
 
 ---
 
