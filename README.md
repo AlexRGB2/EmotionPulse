@@ -82,6 +82,11 @@ Para aquellas personas deportistas quienes tienen la necesidad de realizar segui
 
 ---
 
+## Script Base de datos
+[Link a Script](https://github.com/AlexRGB2/EmotionPulse/blob/main/script.sql)
+
+---
+
 ## Prototipo
 ![Imagen de WhatsApp 2024-05-31 a las 09 33 08_25c2c33b](https://github.com/AlexRGB2/EmotionPulse/assets/41849043/e6001b40-e220-4bb8-af91-fbe0bdff238f)
 
