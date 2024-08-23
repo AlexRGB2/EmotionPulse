@@ -53,6 +53,11 @@ Para aquellas personas deportistas quienes tienen la necesidad de realizar segui
 
 ---
 
+## Aplicación Dashboard
+[Link a Repositorio](https://github.com/AlexRGB2/emotion_pulse)
+
+---
+
 ## Historias de usuario (épicas)
 |Historia de Usuario|
 |-------------------|
