@@ -12,25 +12,6 @@ CREATE TABLE DatosSensores (
     valor TEXT NOT NULL
 );
 
-CREATE TABLE DatosGPS (
-    gps_dato_id SERIAL PRIMARY KEY,
-    sensor_id INT REFERENCES Sensores(sensor_id),
-    timestamp TIMESTAMPTZ NOT NULL,
-    latitud NUMERIC(10, 8) NOT NULL,
-    longitud NUMERIC(11, 8) NOT NULL,
-    altitud NUMERIC(10, 2),
-    precision NUMERIC(5, 2)
-);
-
-CREATE TABLE DatosAcelerometro (
-    acelerometro_dato_id SERIAL PRIMARY KEY,
-    sensor_id INT REFERENCES Sensores(sensor_id),
-    timestamp TIMESTAMPTZ NOT NULL,
-    eje_x NUMERIC(10, 6) NOT NULL,
-    eje_y NUMERIC(10, 6) NOT NULL,
-    eje_z NUMERIC(10, 6) NOT NULL
-);
-
 INSERT INTO sensores (nombre_sensor, tipo_sensor, descripcion)
 VALUES ('Acelerometro', 'Digital', 'Sensor Digital de aceleración de gravedad para Arduino, placa de inclinación para módulo IIC SPI, reemplazo ADXL335, GY-291, ADXL345, tres ejes triples');
 
