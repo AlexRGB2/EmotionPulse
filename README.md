@@ -50,6 +50,8 @@ Para aquellas personas deportistas quienes tienen la necesidad de realizar segui
 |ESP32|![image](https://github.com/AlexRGB2/EmotionPulse/assets/41849043/fa57010d-71b8-4d84-b748-d153d7f7c334)|ESP32 es la denominación de una familia de chips SoC de bajo coste y consumo de energía, con tecnología Wi-Fi y Bluetooth de modo dual integrada.|1|
 |Estaño| ![image](https://github.com/user-attachments/assets/cb6ca65c-81a8-4997-a1bf-9d83e578dd2c) | El estaño para soldar no es estaño puro, sino una aleación, normalmente de estaño y plomo. La composición ideal es del 60% de estaño por un 40% de plomo con adición de resina para facilitar el estañado. | 17gr |
 | Flux | ![image](https://github.com/user-attachments/assets/1a3003bf-0f5a-4244-98c4-1e966d5a9ac7) | El flux para soldar, también conocido como fundente para soldar es un producto químico, generalmente en forma de pasta fluida, que al ser aplicado sobre los componentes que vamos a soldar elimina el óxido existente entre ellos aumentando sustancialmente la calidad de la soldadura. | 1 |
+|Lamina de acrílico|![image](https://github.com/user-attachments/assets/3da071ea-85db-4b55-8854-b43b1abdf90c)|La placa de acrílico se obtiene de la polimerización del metacrilato de metilo y la presentación más frecuente que se encuentra en la industria del plástico es en gránulos o en placas.|1|
+|Lata de pintura|![image](https://github.com/user-attachments/assets/fd2d0504-8575-4900-ae6b-1e920563d747)|Pintura base agua de buena calidad, color blanco ligeramente entintado que presenta excelente poder cubriente y muy buen rendimiento, posee excelente facilidad de aplicación, nivelación y brochabilidad, además de buena adherencia y resistencia a la intemperie.|1|
 
 ---
 
