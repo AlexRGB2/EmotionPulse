@@ -113,3 +113,16 @@ Para aquellas personas deportistas quienes tienen la necesidad de realizar segui
 ---
 
 ## Resultados
+Video Demostración: https://drive.google.com/file/d/13bpU5seYDoqp64_xUSGG0Ya8dR3DuzAi/view?usp=sharing
+
+Video con Cliente: https://drive.google.com/file/d/1Y6FKzFvBWnIRP3tNGOFr7lxE4TCh94h4/view?usp=sharing
+
+---
+
+## Carta Agradecimiento
+![CartaAgradecimiento](https://github.com/user-attachments/assets/287cb7cf-9958-4ec2-b50b-8593a9f6777e)
+
+---
+
+
+
